@@ -1,0 +1,41 @@
+.navbarprincipal {
+    background-color: #ece3d8;
+}
+.navbarprincipal a {
+    text-align: center;
+    text-decoration: none;
+    color: #871c3a;
+    font-family: 'Parisienne', cursive;
+    font-size: 40px;
+}
+
+.descripcionvino {
+    color:#7d6242;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color:#871c3a;
+    text-align: center;
+    font-family: 'Parisienne', cursive;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.row {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.row img{
+    border-radius: 20px;
+}
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #ece3d8;
+    text-align: center;
+    color: #7d6242;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
